@@ -1,0 +1,8 @@
+git init
+git commit -m "first commit produccion"
+git remote add origin https://github.com/JonaSoft/proyectobdHostFirebase.git
+git push -u origin master
+git add -A
+git commit -m "first commit produccion"
+git push -u origin master
+
